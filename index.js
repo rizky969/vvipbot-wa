@@ -16,13 +16,13 @@ const menu = require("./lib/menu.js")
 const apivhtear = 'Apikey vhtear';
 const apibarbar = 'Apikey mhankbarbar';
 const BotName = 'VVIPINDO BOT'; 
-const instagram = 'agus_alnsyh71- kaelMk_'; 
+const instagram = 'rizky_alpenliebe- gamtenkk_'; 
 const aktif = 'Kapan bot aktif';
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
-            + 'FN:Agus\n' // Nama kamu
-            + 'ORG:VVIPINDO;\n' // Nama bot
-            + 'TEL;type=CELL;type=VOICE;waid=6289613469459:+62 896-1346-9459\n' //Nomor whatsapp kamu
+            + 'FN:Agus\n' // Rizky Ganss
+            + 'ORG:VVIPINDO;\n' // BOT RIZKY GANS
+            + 'TEL;type=CELL;type=VOICE;waid=6289678654813:+6289678654813\n' //Nomor whatsapp kamu
             + 'END:VCARD'
 const
 {
@@ -1450,7 +1450,7 @@ Silakan pilih :
 
 
 }
-//Hay gay
-//create @agusalnsyh don't delate this please
+//Hay Kawan
+//create @Rizky_Gamtenkk don't delate this please
 	
 })
